@@ -1,113 +1,30 @@
 # Maven_Space-Missions_Analysis
-🚀 Space Missions Exploration (1957–2022)
-A Data Analytics Project using Power BI, DAX & Real-World Space Mission Data
+🚀 Exploring 65 Years of Space Missions: A Data Story (1957–2022)
+The story of space missions isn’t just about rockets — it’s about human persistence, scientific progress, and curiosity.
+Every mission, successful or failed, paved the path for today’s new era of space exploration. 🌠
 
-This project explores 65 years of global space missions through data — uncovering trends, patterns, and performance insights across rockets, countries, and decades. Using the dataset from the Maven Analytics Space Challenge, I analyzed over 4,000+ recorded missions launched by NASA, USSR/Russia, SpaceX, ISRO, Blue Origin, China, and other agencies.
+Thrilled to share my latest project from the Maven Analytics Space Challenge! 🛰️
+Using real-world data, I explored which rockets, countries, and decades truly defined the journey of space exploration, covering global space missions spanning launches by organizations like NASA, USSR, SpaceX, Blue Origin, ISRO, and others. Here’s what the data reveals 👇
 
-The goal: to understand how space exploration evolved, which rockets defined success, and which eras shaped today’s breakthroughs.
-
-🛰 Project Overview
-
-Space exploration is a story of innovation, risk, and persistence.
-Every mission — successful or failed — moved humanity one step closer to our cosmic ambitions.
-
-This dashboard helps answer:
-
-Which countries launched the most missions?
-
-Which rockets performed best?
-
-How did mission success rates evolve across decades?
-
-How have costs and efficiencies changed over time?
-
-📊 Key Insights
 🛰 Mission Performance
-
-4,000+ missions analyzed between 1957 and 2022.
-
-Global success rates increased steadily, showcasing advancements in engineering and precision.
-
-1970s were the golden era — highest number of launches and strong success performance.
-
-Mission efficiency improved despite rising costs, with lower cost-per-success ratios.
-
-USA & USSR/Russia dominated early mission counts, while China and India have significantly accelerated in recent decades.
+🌍 Over 4,000+ missions have been recorded across decades of exploration.
+📈 The success rate has steadily risen, showing how technology and precision have improved.
+🕰 The 1970s emerged as the golden era of space, with record-high launch frequencies and success percentages — fuelled by private companies entering the race.
+💸 Despite rising costs, mission efficiency improved, with better outcomes achieved at lower cost-per-success ratios.
+🌐 The Russia (USSR) and USA led the early race, but recent years show new contenders like India and China rapidly growing their footprints.
 
 🚀 Rocket Performance
+🧠 Modern rockets show remarkable reliability — Active rockets boast an average success rate above 85–90%.
+🧩 Reusable rocket programs (like SpaceX’s Falcon series) have redefined performance and cost efficiency.
+💰 Rocket costs varied widely by organization and technology — yet data trends show consistent cost optimization in the last decade.
+🏆 Top-performing rockets consistently delivered successful missions and are still active, reflecting how iterative design improved outcomes.
 
-Modern active rockets deliver 85–90% success rates, signaling exceptional reliability.
+🔭 Key Insights
+ 🚀 The Ultimate Rocket Champion: Cosmos-3M (11K65M) with 419 successful missions. However this rocket is currently retired. In Active rockets, Falcon 9 Block 5 is the Top Performer having 111 successful missions.
+🪐 The Golden Era of Space Exploration: The 1970s–1980s emerged as the golden decades, showcasing the highest mission volumes and consistent success rates.
+🌍 The Winning Team: The USA dominated in total missions, while the Russia maintained exceptional success rates — demonstrating their long-term leadership in the space race.
 
-Reusable rockets (e.g., SpaceX Falcon series) revolutionized cost and performance efficiency.
-
-Rocket costs vary widely but demonstrate consistent optimization in the last decade.
-
-Iterative design has helped top-performing rockets maintain long-term mission success.
-
-🔭 Highlight Findings
-
-Most Successful Rocket (All-Time): Cosmos-3M (11K65M) — 419 successful missions (retired).
-
-Top Active Rocket: Falcon 9 Block 5 — 111 successful missions to date.
-
-Golden Era of Space Exploration: 1970s–1980s saw maximum mission volume and steady success rates.
-
-Mission Leadership: USA leads in launches, while Russia holds one of the strongest performance records.
-
-🛠 Tools & Technologies
-
-Power BI (Data Modeling, DAX, Visuals)
-
-DAX Measures for KPIs
-
-Power Query for Data Cleaning
-
-Data Modeling (Star Schema)
-
-Custom Visualization & UI/UX Design
-
-📁 Dashboard Features
-✓ Mission Performance Section
-
-Mission Success Rate
-
-Missions Over Time (Year/Decade)
-
-Success Rate by Country
-
-Mission Cost Trend
-
-Missions per Decade
-
-Combo Chart: Missions vs. Success %
-
-✓ Rocket Performance Section
-
-Rocket Success Rate
-
-Rocket Cost by Year
-
-Rocket Score (custom metric)
-
-Top Performing Rocket
-
-Rocket Success Rate by Rocket Name
-
-Gauge: Rocket Score / Active Rocket Reliability
-
-✓ Filters / Slicers
-
-Country
-
-Organization
-
-Rocket
-
-Mission Status
-
-Year / Decade
-
-Rocket Status
+🎯 Tools & Techniques Used: Power BI | DAX | Data Cleaning & Modeling | Custom Dashboard Design
 
 📦 Dataset Source
 
