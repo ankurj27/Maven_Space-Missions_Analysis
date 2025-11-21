@@ -34,10 +34,6 @@ Provided by Maven Analytics as part of the Maven Return to Space Challenge.
 
 <img width="991" height="551" alt="Image_1" src="https://github.com/user-attachments/assets/acb75bf6-b6ad-4fab-8d31-7407fc6dd2be" />
 
-<img width="991" height="557" alt="Image_2" src="https://github.com/user-attachments/assets/37a0eee2-6841-4d9a-9499-fb43d38f7059" />
-
-<img width="991" height="551" alt="Image_3" src="https://github.com/user-attachments/assets/fd7004d3-e60a-4922-a777-ccd31539156c" />
-
 🧩 How to Use This Project
 
 Clone the repository.
